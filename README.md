@@ -20,3 +20,14 @@ cd summary-transactions
     docker build -t summary-transactions .
 
     docker run -it -p 8000:8000 -v /app summary-transactions
+
+### show api 
+http://localhost:8000/docs
+
+### install front aplication in
+https://github.com/josepootargaez/summary-transactions-front.git
+
+## optional
+ ### run without docker and run in local 
+    pip install -r requirements.txt
+    uvicorn main:app --reload
