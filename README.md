@@ -12,7 +12,7 @@
 ## Installation
  clone the repository
 
-### Stori Transaction
+###  Transaction
 git clone https://github.com/josepootargaez/summary-transactions.git  
 cd summary-transactions
  ### run the next comands to active the docker container and deploy api

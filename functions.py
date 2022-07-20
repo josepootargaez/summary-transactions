@@ -79,13 +79,12 @@ async def emails(correo="",averageCredit=0,averageDebit=0,balance=0,resultado={}
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stori Transactions</title>
+    <title>Transactions</title>
     
 </head>
 {style}
 <body>
     <div class="head">
-       <img src="https://example-stori.s3.amazonaws.com/Stori.svg">
         <h2>Summary transactions account</h2>
     </div>
            <div class="p-10">
